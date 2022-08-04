@@ -35,32 +35,26 @@ def calcular_latas_e_preco_de_tinta():
     area_com_folga = area * 1.1
 
     litros_por_metro = 6
-    litros_necessarios = area_com_folga / litros_por_metro
+    litros_necessarios = math.ceil(area_com_folga / litros_por_metro)
     litros_por_lata = 18
     qtde_latas = math.ceil(litros_necessarios / litros_por_lata) # Arredondar para cima usando math.ceil
     litros_por_galao = 3.6
     qtde_galoes = math.ceil(litros_necessarios / litros_por_galao) # Arredondar para cima usando math.ceil
     preco_total_com_latas = qtde_latas * 80
     preco_total_com_galoes = qtde_galoes * 25
-    print(f'Você irá precisar de {qtde_latas} latas.')
-    print(f'O custo total é de R${preco_total_com_latas:.2f}')
-    print(f'Você irá precisar de {qtde_galoes} galões.')
-    print(f'O custo total é de R${preco_total_com_galoes:.2f}')
+    sobra_das_latas = (qtde_latas * litros_por_lata) - litros_necessarios
+    sobra_dos_galoes = (qtde_galoes * litros_por_galao) - litros_necessarios
+    print(f'Você deve comprar {litros_necessarios} litros de tinta.')
+    print(f'Você pode comprar {qtde_latas} lata(s) de 18 litros a um custo de R$ {preco_total_com_latas}. Vão sobrar {sobra_das_latas:.1f} litro(s) de tinta.')
+    print(f'Você pode comprar {qtde_galoes} lata(s) de 3.6 litros a um custo de R$ {preco_total_com_galoes}. Vão sobrar {sobra_dos_galoes:.1f} litro(s) de tinta.')
 
+  
     # Comprando pensando em economizar tinta
     qtde_latas = math.floor (litros_necessarios / litros_por_lata)
     valor_de_latas = qtde_latas * 80
     litros_faltantes = litros_necessarios % litros_por_lata
     qtde_galoes = math.ceil (litros_faltantes / litros_por_galao)
     valor_de_galoes = qtde_galoes * 25
-valor_total = valor_de_latas + valor_de_galoes
-
-print (f'Para menor custo, você pode comprar {qtde_latas} lata(s) de 18 litros e {qtde_galoes} galão(ões) de 3.6 litros a um custo de R$ {valor_total:.2f}. Vão sobrar 2.6 litro(s) de tinta.')
-
-
-
-
-Você deve comprar 37 litros de tinta.
-    Você pode comprar 3 lata(s) de 18 litros a um custo de R$ 240. Vão sobrar 17.0 litro(s) de tinta.
-    Você pode comprar 11 lata(s) de 3.6 litros a um custo de R$ 275. Vão sobrar 2.6 litro(s) de tinta.
-    
+    valor_total = valor_de_latas + valor_de_galoes
+    sobra_de_tinta = (qtde_latas * litros_por_lata) + (qtde_galoes * litros_por_galao) - litros_necessarios
+    print (f'Para menor custo, você pode comprar {qtde_latas} lata(s) de 18 litros e {qtde_galoes} galão(ões) de 3.6 litros a um custo de R$ {valor_total:.0f}. Vão sobrar {sobra_de_tinta:.1f} litro(s) de tinta.')
