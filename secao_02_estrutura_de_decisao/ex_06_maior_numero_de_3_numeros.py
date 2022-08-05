@@ -15,5 +15,11 @@ Faça um Programa que leia três números e mostre o maior deles.
 """
 
 
-def calcular_maior_de_3_numeros(x, y, z):
+def calcular_maior_de_3_numeros(numero_1, numero_2, numero_3):
     """Escreva aqui em baixo a sua solução"""
+    if numero_1 >= numero_2 and numero_1 >= numero_3:
+        print(numero_1)
+    elif numero_2 >= numero_1 and numero_2 >= numero_3:
+        print(numero_2)
+    else: 
+        print(numero_3)
