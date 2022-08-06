@@ -27,3 +27,11 @@ Triângulo Escaleno: três lados diferentes;
 
 def classificar_triangulo(lado_a: float, lado_b: float, lado_c: float):
     """Escreva aqui em baixo a sua solução"""
+    if (lado_a + lado_b <= lado_c) or (lado_a + lado_c <= lado_b) or (lado_b + lado_c <= lado_a) :
+        return 'Não é um triângulo'
+    elif lado_a == lado_b == lado_c:
+        return 'Triângulo Equilátero'
+    elif lado_a != lado_b != lado_c:
+        return 'Triângulo Escaleno'
+    else:
+        return 'Triângulo Isósceles'
