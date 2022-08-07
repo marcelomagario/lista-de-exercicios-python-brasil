@@ -52,3 +52,7 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 
 def decompor_numero(numero: int):
     """Escreva aqui em baixo a sua solução"""
+    l = len(str(numero))
+    return ' + '.join([i.ljust(l - b, '0') for b, i in enumerate(str(numero))])
+
+    print(decompor_decimal(numero))
