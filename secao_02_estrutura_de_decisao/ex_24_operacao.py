@@ -28,6 +28,47 @@ Mostre o restultado com duas casas decimais
 
 """
 
+def par_ou_impar(resultado):
+    """" Função para checar se o número é par ou impar """
+    if resultado % 2 == 0:
+        return 'par'
+    else:
+        return 'impar'
+def positivo_ou_negativo(resultado):
+    """ Função para checar se o número é positivo ou negativo """
+    if resultado > 0:
+        return 'positivo'
+    elif resultado < 0:
+        return 'negativo'
+    else:
+        return 'neutro'
+
+def decimal_ou_inteiro(resultado):
+    """ Função para checar se o resultado é decimal ou inteiro """
+    arredondamento = round(resultado)
+    if arredondamento == resultado:
+        return 'inteiro'
+    else:
+        return 'decimal'
 
 def fazer_operacao_e_classificar(n_1: float, n_2: float, operacao: str):
     """Escreva aqui em baixo a sua solução"""
+    if operacao == '+':
+        resultado = n_1 + n_2
+    elif operacao == '-':
+        resultado = n_1 - n_2
+    elif operacao == '/':
+        resultado = n_1 / n_2
+    elif operacao == '*':
+        resultado = n_1 * n_2
+    else:
+        print ('Operador inválido')
+
+    print(f'Resultado: {resultado:.2f}')
+    tipo_par_impar = par_ou_impar(resultado)
+    tipo_positivo_negativo = positivo_ou_negativo(resultado)
+    tipo_decimal_inteiro = decimal_ou_inteiro(resultado)
+    if tipo_decimal_inteiro == 'decimal':
+        print(f'Número é {tipo_positivo_negativo} e {tipo_decimal_inteiro}.')
+    else:
+        print(f'Número é {tipo_par_impar}, {tipo_positivo_negativo} e {tipo_decimal_inteiro}.')
