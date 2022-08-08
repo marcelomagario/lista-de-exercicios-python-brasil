@@ -22,3 +22,9 @@ arredondamento.
 
 def decidir_se_eh_inteiro_ou_decimal(valor: str) -> str:
     """Escreva aqui em baixo a sua solução"""
+    valor_em_float = float(valor)
+    valor_arredondado = round(valor_em_float)
+    if valor_arredondado == valor_em_float:
+        return "Inteiro"
+    else:
+        return "Decimal"
