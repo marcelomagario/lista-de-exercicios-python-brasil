@@ -35,3 +35,22 @@ Mostre o restultado com duas casas decimais
 
 def calcular_abastecimento(litros_de_combustivel: float, tipo_de_combustivel: str) -> str:
     """Escreva aqui em baixo a sua solução"""
+    if tipo_de_combustivel == 'A':
+        if litros_de_combustivel <= 20:
+            valor_a_ser_pago = (litros_de_combustivel * 1.9)
+            valor_com_desconto = valor_a_ser_pago * 0.97
+            return f"{litros_de_combustivel:.0f} litro(s) de álcool custa(m): R$ {valor_a_ser_pago:.2f}. Com 3% de desconto, fica R$ {valor_com_desconto:.2f}"
+        else:
+            valor_a_ser_pago = (litros_de_combustivel * 1.9)
+            valor_com_desconto = valor_a_ser_pago * 0.95
+            return f"{litros_de_combustivel:.0f} litro(s) de álcool custa(m): R$ {valor_a_ser_pago:.2f}. Com 5% de desconto, fica R$ {valor_com_desconto:.2f}"
+
+    if tipo_de_combustivel == 'G':
+        if litros_de_combustivel <= 20:
+            valor_a_ser_pago = (litros_de_combustivel * 2.5)
+            valor_com_desconto = valor_a_ser_pago * 0.96
+            return f"{litros_de_combustivel:.0f} litro(s) de gasolina custa(m): R$ {valor_a_ser_pago:.2f}. Com 4% de desconto, fica R$ {valor_com_desconto:.2f}"
+        else:
+            valor_a_ser_pago = (litros_de_combustivel * 2.5)
+            valor_com_desconto = valor_a_ser_pago * 0.94
+            return f"{litros_de_combustivel:.0f} litro(s) de gasolina custa(m): R$ {valor_a_ser_pago:.2f}. Com 6% de desconto, fica R$ {valor_com_desconto:.2f}"
