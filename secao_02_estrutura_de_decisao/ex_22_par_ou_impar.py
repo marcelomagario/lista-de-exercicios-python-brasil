@@ -26,3 +26,5 @@ def decidir_se_eh_par_ou_impar(valor: int) -> str:
         return "Par"
     else:
         return "Impar"
+    # solução do Renzo
+    # return 'Par' if valor % 2 ==0 else 'Impar'
