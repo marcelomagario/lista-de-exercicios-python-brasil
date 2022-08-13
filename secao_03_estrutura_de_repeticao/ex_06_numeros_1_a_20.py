@@ -31,5 +31,13 @@ mostre os números um ao lado do outro.
 """
 
 
-def escrever_numeros_de_1_a_20(formato:str) -> str:
+def escrever_numeros_de_1_a_20(formato: str) -> str:
     """Escreva aqui em baixo a sua solução"""
+    if formato == 'um_abaixo_do_outro':
+        for i in range(1, 21):
+            print(i)
+    else:
+           #for i in range(1, 21):
+           # print(i, end=" ")
+           #i += 1
+           print(' '.join(map(str, range(1, 21))))
