@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_26_posto_de_gasolina.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_26_posto_de_gasolina.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_17_fatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_17_fatorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,17 +39,17 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_25_sherlock (4)">
-    <configuration name="Doctests in ex_25_sherlock (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ex_20_fatorial_com_limitacao">
+    <configuration name="Doctests in ex_20_fatorial_com_limitacao (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_25_sherlock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -47,16 +58,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_25_sherlock (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_20_fatorial_com_limitacao (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_25_sherlock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -65,16 +76,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_25_sherlock (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_20_fatorial_com_limitacao (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_25_sherlock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -83,16 +94,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_25_sherlock (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_20_fatorial_com_limitacao (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_25_sherlock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -101,16 +112,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_25_sherlock" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_20_fatorial_com_limitacao" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_25_sherlock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -121,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ex_25_sherlock (4)" />
-        <item itemvalue="Python tests.Doctests in ex_25_sherlock (3)" />
-        <item itemvalue="Python tests.Doctests in ex_25_sherlock" />
-        <item itemvalue="Python tests.Doctests in ex_25_sherlock (2)" />
-        <item itemvalue="Python tests.Doctests in ex_25_sherlock (1)" />
+        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao" />
+        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (5)" />
+        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (4)" />
+        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (3)" />
+        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +179,96 @@
           <url>file://$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_25_sherlock.py</url>
           <line>35</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_27_hortifruti.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_27_hortifruti.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_02_validador_de_senha.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_02_validador_de_senha.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_02_validador_de_senha.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_02_validador_de_senha.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_02_validador_de_senha.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_02_validador_de_senha.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_04_crescimento_populacional.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_10_gerar_numeros_de_intervalo.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_10_gerar_numeros_de_intervalo.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
