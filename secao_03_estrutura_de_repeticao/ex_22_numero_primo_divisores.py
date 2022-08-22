@@ -46,7 +46,18 @@ divisível.
     True
 
 """
-
-
 def eh_primo(n: int) -> bool:
     """Escreva aqui em baixo a sua solução"""
+    if n < 2:
+        return False
+    elif n == 2:
+        return True
+    # e_primo = 0
+    resultado = True
+    for i in range(2, n):
+        if (n % i) == 0:
+            print(f'É divisível por {i}')
+            resultado = False
+    else:
+        return resultado
+
