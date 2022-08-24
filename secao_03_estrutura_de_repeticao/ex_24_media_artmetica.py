@@ -20,10 +20,9 @@ def calcular_media(*notas) -> float:
     """Escreva aqui em baixo a sua solução"""
     if len(notas) == 0:
          return 'É necessária ao menos uma nota para calcular a média'
+    media = sum(notas) / len(notas)
+    if sum(notas) % len(notas) == 0:
+        print(int(media))
     else:
-        media = sum(notas) / len(notas)
-        if sum(notas) % len(notas) == 0:
-            print(int(media))
-        else:
-            print(media)
+        print(media)
 

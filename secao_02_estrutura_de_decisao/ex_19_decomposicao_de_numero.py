@@ -52,7 +52,26 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 
 def decompor_numero(numero: int):
     """Escreva aqui em baixo a sua solução"""
-    l = len(str(numero))
-    return ' + '.join([i.ljust(l - b, '0') for b, i in enumerate(str(numero))])
+    if numero <= 0:
+        return 'O número precisa ser positivo'
+    if numero > 1000:
+        return 'O número precisa ser menor que 1000'
 
-    print(decompor_decimal(numero))
+    centenas_numero = numero // 100
+    if centenas_numero == 0:
+    if centenas_numero == 1:
+        centenas_msg = '1 centena'
+    else:
+        centenas_msg = f'{centenas_numero} centenas'
+
+
+
+'326 = 3 centenas, 2 dezenas e 6 unidades'
+'300 = 3 centenas'
+'311 = 3 centenas, 1 dezena e 1 unidade'
+'111 = 1 centena, 1 dezena e 1 unidade'
+'101 = 1 centena e 1 unidade'
+'21 = 2 dezenas e 1 unidade'
+'10 = 1 dezena'
+'16 = 1 dezena e 6 unidades'
+'1 = 1 unidade'

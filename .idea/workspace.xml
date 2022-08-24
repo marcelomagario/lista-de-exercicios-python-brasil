@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_17_fatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_17_fatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_19_decomposicao_de_numero.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_02_estrutura_de_decisao/ex_19_decomposicao_de_numero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_23_primos_menores_que_um_numero.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_23_primos_menores_que_um_numero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_24_media_artmetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_24_media_artmetica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +38,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_20_fatorial_com_limitacao">
-    <configuration name="Doctests in ex_20_fatorial_com_limitacao (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ex_24_media_artmetica">
+    <configuration name="Doctests in ex_24_media_artmetica (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_24_media_artmetica.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -58,7 +57,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_20_fatorial_com_limitacao (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_24_media_artmetica (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_24_media_artmetica.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -76,7 +75,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_20_fatorial_com_limitacao (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_24_media_artmetica" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_24_media_artmetica.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -94,7 +93,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_20_fatorial_com_limitacao (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_25_classificador_de_turma (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_25_classificador_de_turma.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -112,7 +111,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_20_fatorial_com_limitacao" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_25_classificador_de_turma" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_20_fatorial_com_limitacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_25_classificador_de_turma.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao" />
-        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (5)" />
-        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (4)" />
-        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (3)" />
-        <item itemvalue="Python tests.Doctests in ex_20_fatorial_com_limitacao (2)" />
+        <item itemvalue="Python tests.Doctests in ex_24_media_artmetica" />
+        <item itemvalue="Python tests.Doctests in ex_25_classificador_de_turma (1)" />
+        <item itemvalue="Python tests.Doctests in ex_25_classificador_de_turma" />
+        <item itemvalue="Python tests.Doctests in ex_24_media_artmetica (4)" />
+        <item itemvalue="Python tests.Doctests in ex_24_media_artmetica (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +268,31 @@
           <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
           <line>33</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
