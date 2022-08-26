@@ -20,5 +20,5 @@ def calcular_serie_de_fibonacci_ate_valor_ser_maior_que_500() -> str:
         fibo.append(soma)
         penultimo = ultimo
         ultimo = soma
-    return ', '.join(map(str, fibo)) #converting a list to str to pass the doctests.
+    return ', '.join(map(str, fibo)) #converting a list to str to pass the doctests. Marcelo
 
