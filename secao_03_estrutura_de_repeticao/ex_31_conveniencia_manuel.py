@@ -7,19 +7,19 @@ Faça um programa que implemente uma caixa registradora rudimentar. O programa d
 valores referentes aos preços das mercadorias.
 Um valor zero deve ser informado pelo operador para indicar o final da compra.
 Um valor -1 deve ser informado pelo operador para finalizar o programas
-O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então
+O programa deve então mostrar o total_de_alunos da compra e perguntar o valor em dinheiro que o cliente forneceu, para então
 calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial,
 para registrar a próxima compra.
 
     >>> from secao_03_estrutura_de_repeticao import ex_31_conveniencia_manuel
-    >>> entradas = ['-1']  # Encerrando o programa sem nenhuma compra
-    >>> ex_31_conveniencia_manuel.input = lambda k: entradas.pop()
+    >>> lista_entradas = ['-1']  # Encerrando o programa sem nenhuma compra
+    >>> ex_31_conveniencia_manuel.input = lambda k: lista_entradas.pop()
     >>> ex_31_conveniencia_manuel.rodar_programa_de_caixa()
     Lojas Tabajara
     -------------------
     Programa encerrado!
-    >>> entradas = ['2.00', '-1', '1.99']  # Compra de apenas um produto
-    >>> ex_31_conveniencia_manuel.input = lambda k: entradas.pop()
+    >>> lista_entradas = ['2.00', '-1', '1.99']  # Compra de apenas um produto
+    >>> ex_31_conveniencia_manuel.input = lambda k: lista_entradas.pop()
     >>> ex_31_conveniencia_manuel.rodar_programa_de_caixa()
     Lojas Tabajara
     Total     : R$   1.99
@@ -27,8 +27,8 @@ para registrar a próxima compra.
     Troco     : R$   0.01
     -------------------
     Programa encerrado!
-    >>> entradas = ['5.00', '-1', '1.99', '1.99']  # Compra de dois produtos
-    >>> ex_31_conveniencia_manuel.input = lambda k: entradas.pop()
+    >>> lista_entradas = ['5.00', '-1', '1.99', '1.99']  # Compra de dois produtos
+    >>> ex_31_conveniencia_manuel.input = lambda k: lista_entradas.pop()
     >>> ex_31_conveniencia_manuel.rodar_programa_de_caixa()
     Lojas Tabajara
     Total     : R$   3.98
@@ -36,8 +36,8 @@ para registrar a próxima compra.
     Troco     : R$   1.02
     -------------------
     Programa encerrado!
-    >>> entradas = ['10.00', '-1', '5.35', '5.00', '0', '1.98', '1.99']  # Compra de dois produtos
-    >>> ex_31_conveniencia_manuel.input = lambda k: entradas.pop()
+    >>> lista_entradas = ['10.00', '-1', '5.35', '5.00', '0', '1.98', '1.99']  # Compra de dois produtos
+    >>> ex_31_conveniencia_manuel.input = lambda k: lista_entradas.pop()
     >>> ex_31_conveniencia_manuel.rodar_programa_de_caixa()
     Lojas Tabajara
     Total     : R$   3.97
@@ -56,3 +56,30 @@ para registrar a próxima compra.
 
 def rodar_programa_de_caixa():
     """Escreva aqui em baixo a sua solução"""
+    print('Lojas Tabajara')
+    total = 0
+    while True:
+        valor_da_compra = float(input('Digite -1 para sair, 0 para encerrar a compra ou o valor do produto: '))
+        if valor_da_compra == -1:
+            if total > 0:
+                mostrar_resumo(total)
+            else:
+                print('-------------------')
+            break
+        elif valor_da_compra == 0:
+            mostrar_resumo(total)
+            total = 0
+            print('Lojas Tabajara')
+        else:
+            total += valor_da_compra
+
+    print('Programa encerrado!')
+
+
+def mostrar_resumo(total: float):
+    valor_pago = float(input('Valor Pago: '))
+    troco = valor_pago - total
+    print(f'Total     : R$ {total:6.2f}')
+    print(f'Dinheiro  : R$ {valor_pago:6.2f}')
+    print(f'Troco     : R$ {troco:6.2f}')
+    print('-------------------')
