@@ -43,4 +43,5 @@ def gerar_tabuada(n: int, de: int, ate: int):
         print(f'O limite final ({ate}) deve ser maior que o inicial ({de})')
     for i in range(de, ate + 1):
         result = n * i
-        print(f'{n} X {i} = {result}')
+        print(f'{n} X {i} ='
+              f' {result}')
