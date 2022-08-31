@@ -40,3 +40,30 @@ A entrada de dados deverá terminar quando for lido um número negativo.
 
 def listar_numeros_para_avaliacao():
     """Escreva aqui em baixo a sua solução"""
+    count_0a25, count_25a50, count_50a75, count_75a100 = 0, 0, 0, 0
+    while True:
+        numero = int(input('Digite m número: '))
+        # lista_numeros.append(numero)
+        if numero < 0:
+            if count_0a25 > 0:
+                print(f'{count_0a25} número(s) entre o intervalo de zero a 25')
+            if count_25a50 > 0:
+                print(f'{count_25a50} número(s) entre o intervalo de 26 a 50')
+            if count_50a75 > 0:
+                print(f'{count_50a75} número(s) entre o intervalo de 51 a 75')
+            if count_75a100 > 0:
+                print(f'{count_75a100} número(s) entre o intervalo de 76 a 100')
+            break
+        elif 0 < numero <= 25:
+            count_0a25 += 1
+        elif 25 < numero <= 50:
+            count_25a50 += 1
+        elif 50 < numero <= 75:
+            count_50a75 += 1
+        elif 75 < numero <= 100:
+            count_75a100 += 1
+
+
+
+
+
