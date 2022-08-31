@@ -1,3 +1,7 @@
+# ATENÇÃO
+
+Objetivo desse repositório  é praticar e validar meu aprendizado em Python resolvendo as listas de exercícios da Python Brasil. Todos os exercícios estão sendo resolvidos por mim e validados pelo doctest da PythonPro.
+
 # Projeto de resolução de exercício Python Brasil
 
 Objetivo desse repositório é ajudar alunos aprendendo lógica de programação imperativa com Python a praticarem a validarem seu conhecimento.
