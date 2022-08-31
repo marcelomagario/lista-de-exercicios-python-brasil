@@ -45,3 +45,4 @@ def rodar_senso():
     print(f'Media de altura dos clientes: {altura_media:.1f} centímetros')
     print(f'Media de peso dos clientes: {peso_medio:.1f} kilos')
     print(altura_media2)
+#31/08/2022
