@@ -14,6 +14,13 @@ representando a sua altura em centímetros. Encontre o aluno mais alto e o mais 
 
 """
 
-
+from operator import itemgetter
 def calcular_aluno_mais_baixo_e_mais_alto(*alunos) -> str:
     """Escreva aqui em baixo a sua solução"""
+    mais_alto = max(alunos, key=itemgetter(1))
+    nome_aluno_mais_alto = mais_alto[0]
+    altura_aluno_mais_alto = mais_alto[1]
+    mais_baixo = min(alunos, key=itemgetter(1))
+    nome_aluno_mais_baixo = mais_baixo[0]
+    altura_aluno_mais_baixo = mais_baixo[1]
+    return f'O maior aluno é o {nome_aluno_mais_alto} com {altura_aluno_mais_alto} cm. O menor aluno é o {nome_aluno_mais_baixo} com {altura_aluno_mais_baixo} cm'
