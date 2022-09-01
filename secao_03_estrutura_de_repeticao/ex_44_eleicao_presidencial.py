@@ -85,8 +85,41 @@ A percentagem de votos em branco sobre o total de votos. Para finalizar o conjun
 
 
 """
-from collections import Counter
-
 
 def apurar_votos(*votos):
     """Escreva aqui em baixo a sua solução"""
+
+    # Inclui um contador no dicionário utilizando uma lista como valor --> Chave(Str), Valor (list)
+    candidatos = {
+            '1': ['Bostonaro', 0],
+            '2': ['Luladrão', 0],
+            '3': ['Dilmanta', 0],
+            '4': ['FHC Isentão', 0],
+            '5': ['Votos Nulos', 0],
+            '6': ['Votos Brancos', 0],
+        }
+    votos_invalidos = ('5', '6')
+    # Contabiliza todos os votos no contador do dicionário.
+    for i in range(len(votos)):
+        if votos[i] == '1':
+            candidatos['1'][1] += 1
+        if votos[i] == '2':
+            candidatos['2'][1] += 1
+        if votos[i] == '3':
+            candidatos['3'][1] += 1
+        if votos[i] == '4':
+            candidatos['4'][1] += 1
+        if votos[i] == '5':
+            candidatos['5'][1] += 1
+        if votos[i] == '6':
+            candidatos['6'][1] += 1
+    print(f'Código do Candidato Nome do Candidato Votos Porcentagem sobre total')
+    for chave, valor in candidatos.items():
+        percentual = valor[1] / len(votos)
+        if chave not in votos_invalidos:
+            print(f'{chave:<19} {valor[0]:<17} {valor[1]:<5} {percentual:6.1%}')
+    print(f'-------------------------------------------------------------------')
+    for chave, valor in candidatos.items():
+        percentual = valor[1] / len(votos)
+        if chave in votos_invalidos:
+            print(f'{chave:<19} {valor[0]:<17} {valor[1]:<5} {percentual:6.1%}')
