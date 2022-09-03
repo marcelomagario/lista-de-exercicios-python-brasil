@@ -37,3 +37,15 @@ Faça um programa que mostre os n termos da Série a seguir:
 
 def imprimir_serie(n):
     """Escreva aqui em baixo a sua solução"""
+    dividendo, divisor = [1], [1]
+    novo_dividendo, novo_divisor, soma = 0, 0, 0
+    serie_str = ''
+    for i in range(0, n):
+        novo_dividendo = dividendo[-1] + 1 # adiciona 1 ao ultimo elemento da lista
+        dividendo.append(novo_dividendo)
+        novo_divisor = divisor[-1] + 2 # adiciona 2 ao ultimo elemento da lista
+        divisor.append(novo_divisor)
+        serie_str += f'{dividendo[i]}/{divisor[i]} + '
+        soma += dividendo[i]/divisor[i]
+    print(f'S = {serie_str[:-3]}') # -3 é para tirar o último sinal de +
+    print(f'soma = {soma}')
