@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_06_calculador_de_media.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_06_calculador_de_media.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_09_soma_de_quadrados.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_09_soma_de_quadrados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_09_soma_de_quadrados (2)">
+  <component name="RunManager" selected="Python tests.Doctests in ex_06_calculador_de_media">
     <configuration name="Doctests in ex_06_calculador_de_media (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctests in ex_06_calculador_de_media" />
         <item itemvalue="Python tests.Doctests in ex_09_soma_de_quadrados (2)" />
         <item itemvalue="Python tests.Doctests in ex_09_soma_de_quadrados" />
         <item itemvalue="Python tests.Doctests in ex_09_soma_de_quadrados (1)" />
         <item itemvalue="Python tests.Doctests in ex_06_calculador_de_media (1)" />
-        <item itemvalue="Python tests.Doctests in ex_06_calculador_de_media" />
       </list>
     </recent_temporary>
   </component>
@@ -265,31 +267,6 @@
           <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_15_fibonnacci_ate_n.py</url>
           <line>33</line>
           <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/secao_03_estrutura_de_repeticao/tesete.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
