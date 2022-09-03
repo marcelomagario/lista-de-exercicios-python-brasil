@@ -33,8 +33,6 @@ Faça um programa que mostre os n termos da Série a seguir:
     soma = 5.540311975606093
 
 """
-
-
 def imprimir_serie(n):
     """Escreva aqui em baixo a sua solução"""
     dividendo, divisor = [1], [1]
@@ -49,3 +47,4 @@ def imprimir_serie(n):
         soma += dividendo[i]/divisor[i]
     print(f'S = {serie_str[:-3]}') # -3 é para tirar o último sinal de +
     print(f'soma = {soma}')
+
