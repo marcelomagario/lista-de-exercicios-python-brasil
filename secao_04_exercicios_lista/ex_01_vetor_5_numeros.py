@@ -9,8 +9,8 @@ Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 """
 def ler_5_valores():
     """Escreva aqui em baixo a sua solução"""
-    vetor = []
-    for i in range(0, 5):
-        vetor += [int(input('Digite 1 número inteiro: '))]
-    print(vetor)
+    # vetor = []
+    # for i in range(0, 5):
+    #     vetor += [int(input('Digite 1 número inteiro: '))]
+    # print(vetor)
 

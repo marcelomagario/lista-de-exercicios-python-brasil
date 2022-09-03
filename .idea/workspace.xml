@@ -35,7 +35,25 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_02_vetores_inverso (5)">
+  <component name="RunManager" selected="Python tests.Doctests in ex_02_vetores_inverso (3)">
+    <configuration name="Doctests in ex_02_vetores_inverso (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="lista-de-exercicios-python-brasil" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_02_vetores_inverso.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="Doctests in ex_02_vetores_inverso (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,24 +73,6 @@
       <method v="2" />
     </configuration>
     <configuration name="Doctests in ex_02_vetores_inverso (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="lista-de-exercicios-python-brasil" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_02_vetores_inverso.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctests in ex_02_vetores_inverso (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso (5)" />
-        <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso" />
-        <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso (4)" />
         <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso (3)" />
+        <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso" />
         <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso (2)" />
+        <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso (1)" />
+        <item itemvalue="Python tests.Doctests in ex_02_vetores_inverso (5)" />
       </list>
     </recent_temporary>
   </component>
