@@ -18,4 +18,13 @@ Altere o programa anterior, intercalando 3 vetores.
 
 def intercalar(lista_1: list, lista_2: list, lista_3: list) -> list:
     """Escreva aqui em baixo a sua solução"""
+    lista_final = []
+    i = 0
+    while i < len(lista_1):
+        lista_final.append(lista_1[i])
+        lista_final.append(lista_2[i])
+        lista_final.append(lista_3[i])
+        i += 1
+    print(lista_final)
+
 
