@@ -19,3 +19,9 @@ vetor.
 
 def calcular_soma_de_quadrados(inteiros: list) -> int:
     """Escreva aqui em baixo a sua solução"""
+    lista_quadrados = []
+    for i in range(len(inteiros)):
+        quadrado = inteiros[i] ** 2
+        lista_quadrados.append(quadrado)
+    soma = sum(lista_quadrados)
+    print(soma)
