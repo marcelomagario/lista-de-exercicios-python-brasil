@@ -29,3 +29,8 @@ Faça um programa que calcule o valor de H com N termos.
 
 def soma_serie(n):
     """Escreva aqui em baixo a sua solução"""
+    divisor = list(range(1, n + 1)) # [1, 2, 3...n]
+    soma = 1 # H = [1 + 1/2...]
+    for i in range(2, n + 1):
+        soma += 1 / i
+    print(f'H = {soma}')
