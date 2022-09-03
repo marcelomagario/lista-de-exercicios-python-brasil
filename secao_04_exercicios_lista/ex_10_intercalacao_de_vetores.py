@@ -15,8 +15,13 @@ deverão ser compostos pelos elementos intercalados dos dois outros vetores.
     [0, 10, 1, 11, 2, 12, 3, 13, 4, 14, 5, 15, 6, 16, 7, 17, 8, 18, 9, 19]
 
 """
-
-
 def intercalar(lista_1: list, lista_2: list) -> list:
     """Escreva aqui em baixo a sua solução"""
+    lista_final = []
+    count = 0
+    while count < len(lista_1):
+        lista_final.append(lista_1[count])
+        lista_final.append(lista_2[count])
+        count += 1
+    print(lista_final)
 
