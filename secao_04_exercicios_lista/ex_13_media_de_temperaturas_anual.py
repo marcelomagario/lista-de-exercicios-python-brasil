@@ -43,7 +43,30 @@ e em que mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2 – F
 
 """
 
-
+from statistics import mean
 def temperaturas_acima_da_media():
     """Escreva aqui sua solução: """
+    meses = [' 1 - Janeiro: ', ' 2 - Fevereiro: ', ' 3 - Março: ', ' 4 - Abril: ', ' 5 - Maio: ', ' 6 - Junho: ', ' 7 - Julho: ', ' 8 - Agosto: ', ' 9 - Setembro: ', '10 - Outubro: ',  '11 - Novembro: ', '12 - Dezembro: ']
+    todas_temp = []
+    temp_acima_da_media = []
+    media = 0.
+    for i in range(12):
+        temp = int(input('Entre com as temperaturas: '))
+        todas_temp.append(temp)
 
+    media = mean(todas_temp)
+    print(f'Média anual: {media:.2f} Graus')
+    for i in range(len(todas_temp)):
+        if todas_temp[i] > media:
+            print(f'{meses[i]:<14s} {todas_temp[i]:>50}°')
+
+
+
+# languages = ['Python', 'Java', 'JavaScript']
+#
+# enumerate_prime = enumerate(languages, start=1)
+#
+# # convert enumerate object to list
+# print(list(enumerate_prime))
+#
+# # Output: [(0, 'Python'), (1, 'Java'), (2, 'JavaScript')]
