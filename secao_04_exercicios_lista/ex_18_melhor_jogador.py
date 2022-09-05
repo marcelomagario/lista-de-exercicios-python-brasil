@@ -43,8 +43,38 @@ outro número. Após o final da votação, o programa deverá exibir:
 
 """
 
+from collections import Counter
+
 
 def receber_votos(*voto):
     """Escreva aqui em baixo a sua solução"""
+    print('Enquete: Quem foi o melhor jogador?')
+    print('---------------------------------------------------------------')
+    votos_validos = [*range(0, 23)]
+    for i in range(len(voto)):
+        print(f'Número do jogador (0=fim): {voto[i]}')
+        if voto[i] not in votos_validos:
+            print('Informe um valor entre 1 e 23 ou 0 para sair!')
+    # conta o total de votos
+    total_de_votos = 0
+    for i in range(len(voto)):
+        if 1 <= voto[i] <= 23:
+            total_de_votos += 1
+    print(f'---------------------------------------------------------------')
+    print('Resultado da votação:')
+    print(f'---------------------------------------------------------------')
+    print(f'Foram computados {total_de_votos} votos.')
+    print(f'---------------------------------------------------------------')
+    print('Jogador Votos           %')
 
+    jogadores = {*range(1, 24, 1)}
+    dicionario = Counter(voto)
 
+    for k, v in dicionario.items():
+        if k in votos_validos and k != 0:
+            porcentagem = v / total_de_votos
+            print(f'{k:<2d}              {v}               {porcentagem:.1%}')
+
+    melhor_jogador, mais_votos = dicionario.most_common(1)[0]
+    porcentagem_melhor = mais_votos / total_de_votos
+    print(f'O melhor jogador foi o número {melhor_jogador}, com {mais_votos} votos, correspondendo a {porcentagem_melhor:.0%} do total de votos.')
