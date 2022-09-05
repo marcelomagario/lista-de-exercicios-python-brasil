@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +35,17 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_24_lancamento_de_dados (1)">
-    <configuration name="Doctests in ex_24_lancamento_de_dados (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ex_01_numero_valido (3)">
+    <configuration name="Doctests in ex_01_numero_valido (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -54,16 +54,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_24_lancamento_de_dados (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_01_numero_valido (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -72,16 +72,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_24_lancamento_de_dados (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_01_numero_valido (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -90,16 +90,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_24_lancamento_de_dados (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_01_numero_valido (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -108,16 +108,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_24_lancamento_de_dados" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_01_numero_valido" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_04_exercicios_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (1)" />
-        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados" />
-        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (5)" />
-        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (4)" />
-        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (3)" />
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (3)" />
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (2)" />
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (1)" />
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido" />
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (5)" />
       </list>
     </recent_temporary>
   </component>
