@@ -33,7 +33,16 @@ Mostre na tela:
     O lado com o número 6 caiu mais vezes (15 vezes)
 
 """
-
-
+import operator
+from collections import Counter
 def lancar_dados(*valor_lancamentos):
     """Escreva aqui em baixo a sua solução"""
+    qtde_lancamentos = len(valor_lancamentos)
+    print(f'O dado foi lançado {qtde_lancamentos} vezes')
+    dicionario = Counter(valor_lancamentos)
+    dicionario_sorted = sorted(dicionario.items(), key=operator.itemgetter(0))
+    for i in range(len(dicionario_sorted)):
+        print(f'O número {dicionario_sorted[i][0]} caiu {dicionario_sorted[i][1]} vezes')
+    face, frequencia = dicionario.most_common(1)[0]
+    print(f'O lado com o número {face} caiu mais vezes ({frequencia} vezes)')
+

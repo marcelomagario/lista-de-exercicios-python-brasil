@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_18_melhor_jogador (3)">
-    <configuration name="Doctests in ex_18_melhor_jogador (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ex_24_lancamento_de_dados (1)">
+    <configuration name="Doctests in ex_24_lancamento_de_dados (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -54,7 +54,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_18_melhor_jogador (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_24_lancamento_de_dados (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -72,7 +72,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_18_melhor_jogador (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_24_lancamento_de_dados (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -90,7 +90,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_18_melhor_jogador (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_24_lancamento_de_dados (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -108,7 +108,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_18_melhor_jogador" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_24_lancamento_de_dados" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_18_melhor_jogador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_04_exercicios_lista/ex_24_lancamento_de_dados.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ex_18_melhor_jogador (3)" />
-        <item itemvalue="Python tests.Doctests in ex_18_melhor_jogador (2)" />
-        <item itemvalue="Python tests.Doctests in ex_18_melhor_jogador" />
-        <item itemvalue="Python tests.Doctests in ex_18_melhor_jogador (1)" />
-        <item itemvalue="Python tests.Doctests in ex_18_melhor_jogador (5)" />
+        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (1)" />
+        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados" />
+        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (5)" />
+        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (4)" />
+        <item itemvalue="Python tests.Doctests in ex_24_lancamento_de_dados (3)" />
       </list>
     </recent_temporary>
   </component>
