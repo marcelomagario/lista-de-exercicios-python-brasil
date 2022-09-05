@@ -28,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Doctests in ex_13_media_de_temperaturas_anual">
     <configuration name="Doctests in ex_13_media_de_temperaturas_anual (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
@@ -72,7 +72,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_13_media_de_temperaturas_anual (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_13_media_de_temperaturas_anual (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_13_media_de_temperaturas_anual (5)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_13_media_de_temperaturas_anual (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,10 +129,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual" />
+        <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual (4)" />
+        <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual (3)" />
         <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual (2)" />
         <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual (1)" />
-        <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual (5)" />
-        <item itemvalue="Python tests.Doctests in ex_13_media_de_temperaturas_anual (4)" />
       </list>
     </recent_temporary>
   </component>

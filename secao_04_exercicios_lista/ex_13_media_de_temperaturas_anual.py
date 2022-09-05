@@ -48,17 +48,21 @@ def temperaturas_acima_da_media():
     """Escreva aqui sua solução: """
     meses = [' 1 - Janeiro: ', ' 2 - Fevereiro: ', ' 3 - Março: ', ' 4 - Abril: ', ' 5 - Maio: ', ' 6 - Junho: ', ' 7 - Julho: ', ' 8 - Agosto: ', ' 9 - Setembro: ', '10 - Outubro: ',  '11 - Novembro: ', '12 - Dezembro: ']
     todas_temp = []
-    temp_acima_da_media = []
-    media = 0.
+    tamanho_label = len('  2 - Fevereiro:   ')
     for i in range(12):
         temp = int(input('Entre com as temperaturas: '))
         todas_temp.append(temp)
-
     media = mean(todas_temp)
     print(f'Média anual: {media:.2f} Graus')
     for i in range(len(todas_temp)):
         if todas_temp[i] > media:
-            print(f'{meses[i]:<14s} {todas_temp[i]:>50}°')
+            label_meses = meses[i]
+            label_meses = completar_com_espacos_em_branco(label_meses, tamanho_label)
+            print(f'{label_meses} {todas_temp[i]:>1}°')
+
+# Formatar o Print em modo Tabela.
+def completar_com_espacos_em_branco(label, tamanho_label):
+    return label + (' ' * (tamanho_label - len(label)))
 
 
 
