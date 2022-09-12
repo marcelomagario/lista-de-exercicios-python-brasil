@@ -106,6 +106,12 @@ comprados.
 
 """
 
-
+#from collections import Counter
 def fechar_conta(*itens):
     """Escreva aqui em baixo a sua solução"""
+    quantidade_por_produtos = {}
+    for i in range(len(itens)):
+        for k, v in quantidade_por_produtos.items():
+            quantidade_por_produtos[k] = v
+    print(quantidade_por_produtos)
+
