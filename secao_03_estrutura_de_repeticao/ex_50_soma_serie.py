@@ -25,6 +25,8 @@ Faça um programa que calcule o valor de H com N termos.
     H = 1.5
 
 """
+
+
 def soma_serie(n):
     """Escreva aqui em baixo a sua solução"""
     divisor = list(range(1, n + 1)) # [1, 2, 3...n]
