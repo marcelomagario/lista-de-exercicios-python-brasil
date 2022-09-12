@@ -33,8 +33,11 @@ Mostre na tela:
     O lado com o número 6 caiu mais vezes (15 vezes)
 
 """
+
 import operator
 from collections import Counter
+
+
 def lancar_dados(*valor_lancamentos):
     """Escreva aqui em baixo a sua solução"""
     qtde_lancamentos = len(valor_lancamentos)
