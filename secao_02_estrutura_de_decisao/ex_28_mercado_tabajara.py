@@ -43,6 +43,7 @@ Mostre o restultado com duas casas decimais
     '8 kg de Picanha a R$ 7.80/kg saem a R$ 62.40. Com desconto de 5% pelo pagamento feito com cartão tabajara, fica R$ 59.28'
     
 """
+
 def calcular_preco_da_carne(tipo_de_carne: str, kilos_de_carne: int, forma_de_pagamento: str) -> str:
     """Escreva aqui em baixo a sua solução"""
     if tipo_de_carne == 'Filé Duplo':
