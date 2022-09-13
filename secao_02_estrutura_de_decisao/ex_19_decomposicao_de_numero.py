@@ -54,24 +54,37 @@ def decompor_numero(numero: int):
     """Escreva aqui em baixo a sua solução"""
     if numero <= 0:
         return 'O número precisa ser positivo'
-    if numero > 1000:
+    if numero >= 1000:
         return 'O número precisa ser menor que 1000'
-
-    centenas_numero = numero // 100
-    if centenas_numero == 0:
-    if centenas_numero == 1:
-        centenas_msg = '1 centena'
     else:
-        centenas_msg = f'{centenas_numero} centenas'
+        numero_lst = []
+        centena, resto = divmod(numero, 100)
+        if centena == 1:
+            numero_lst.append('1 centena')
+        elif centena > 0:
+            numero_lst.append(f'{centena} centenas')
+
+        dezena, resto = divmod(resto, 10)
+        if dezena == 1:
+            numero_lst.append('1 dezena')
+        elif dezena > 0:
+            numero_lst.append(f'{dezena} dezenas')
+
+        unidade = resto
+        if unidade == 1:
+            numero_lst.append('1 unidade')
+        elif unidade > 0:
+            numero_lst.append(f'{unidade} unidades')
 
 
+        # composicao da mensagem
+        if len(numero_lst) == 1:
+            decomposicao = numero_lst.pop()
+        elif len(numero_lst) == 2:
+            parte_1, parte_2 = numero_lst
+            decomposicao = f'{parte_1} e {parte_2}'
+        else:
+            parte_1, parte_2, parte_3 = numero_lst
+            decomposicao = f'{parte_1}, {parte_2} e {parte_3}'
+        return f'{numero} = {decomposicao}'
 
-'326 = 3 centenas, 2 dezenas e 6 unidades'
-'300 = 3 centenas'
-'311 = 3 centenas, 1 dezena e 1 unidade'
-'111 = 1 centena, 1 dezena e 1 unidade'
-'101 = 1 centena e 1 unidade'
-'21 = 2 dezenas e 1 unidade'
-'10 = 1 dezena'
-'16 = 1 dezena e 6 unidades'
-'1 = 1 unidade'
