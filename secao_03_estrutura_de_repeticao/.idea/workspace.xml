@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="134d16e5-fe45-4dd5-921f-5cadef524d11" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_23_primos_menores_que_um_numero.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_23_primos_menores_que_um_numero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_26_urna_eletronica.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_26_urna_eletronica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_27_alunos_por_turma.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_27_alunos_por_turma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_28_colecao_de_cds.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_28_colecao_de_cds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_31_conveniencia_manuel.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_31_conveniencia_manuel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_40_transito.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_40_transito.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_43_lanchonete.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_43_lanchonete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_44_eleicao_presidencial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_44_eleicao_presidencial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_45_corretor_de_provas.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_45_corretor_de_provas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tesete.py" beforeDir="false" afterPath="$PROJECT_DIR$/tesete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_01_numero_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_01_numero_valido.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +26,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/marce/Documents/workspace/2022/python-mini-projects"
+    "last_opened_file_path": "C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_27_alunos_por_turma">
-    <configuration name="Doctests in ex_27_alunos_por_turma (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ex_01_numero_valido">
+    <configuration name="Doctests in ex_01_numero_valido (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="secao_03_estrutura_de_repeticao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +39,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_27_alunos_por_turma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -57,7 +48,7 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_27_alunos_por_turma (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_01_numero_valido" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="secao_03_estrutura_de_repeticao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_27_alunos_por_turma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_01_numero_valido.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -131,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido" />
+        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (1)" />
         <item itemvalue="Python tests.Doctests in ex_27_alunos_por_turma" />
         <item itemvalue="Python tests.Doctests in ex_27_alunos_por_turma (4)" />
         <item itemvalue="Python tests.Doctests in ex_27_alunos_por_turma (3)" />
-        <item itemvalue="Python tests.Doctests in ex_27_alunos_por_turma (2)" />
-        <item itemvalue="Python tests.Doctests in ex_27_alunos_por_turma (1)" />
       </list>
     </recent_temporary>
   </component>
