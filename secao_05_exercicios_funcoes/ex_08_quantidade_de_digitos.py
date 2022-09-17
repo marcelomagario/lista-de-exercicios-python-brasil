@@ -23,16 +23,11 @@ Faça uma função que informe a quantidade de dígitos de um determinado númer
     1
 
 """
-def imprimir_qtde_digitos_do_inteiro(n: int) -> int:
-    if not isinstance(n, int):
-        print('O valor informado não é um inteiro')
-        return
-    return len(str(n).replace('-', ''))
 
-# def imprimir_qtde_digitos_do_inteiro(n: int) -> int:
-#     if type(n) != int:
-#         print('O valor informado não é um inteiro')
-#     else:
-#         list = [int(i) for i in str(n).replace('-', '')]
-#         print(len(list))
-#
+def imprimir_qtde_digitos_do_inteiro(n: int) -> int:
+    if type(n) != int:
+        print('O valor informado não é um inteiro')
+    else:
+        list = [int(i) for i in str(n).replace('-', '')]
+        print(len(list))
+
