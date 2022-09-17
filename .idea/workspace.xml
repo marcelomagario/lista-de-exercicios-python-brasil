@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="Solução do Exercício 43 - lista 3">
+    <list default="true" id="f3e5c930-f643-4d89-adbd-6306db1ff0ba" name="Changes" comment="Solução do Exercício 9 - lista 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +35,17 @@
     "last_opened_file_path": "C:/Users/marce/Documents/workspace/2022/lista-de-exercicios-python-brasil"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Doctests in ex_01_numero_valido (4)">
-    <configuration name="Doctests in ex_01_numero_valido (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ex_08_quantidade_de_digitos (4)">
+    <configuration name="Doctests in ex_08_quantidade_de_digitos (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_05_exercicios_funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -55,16 +54,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_01_numero_valido (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_08_quantidade_de_digitos (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_05_exercicios_funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -73,16 +72,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_01_numero_valido (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_08_quantidade_de_digitos (3)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_05_exercicios_funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -91,16 +90,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_01_numero_valido (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_08_quantidade_de_digitos (4)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_05_exercicios_funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -109,16 +108,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ex_01_numero_valido" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ex_08_quantidade_de_digitos" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="lista-de-exercicios-python-brasil" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao_05_exercicios_funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_03_estrutura_de_repeticao/ex_01_numero_valido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao_05_exercicios_funcoes/ex_08_quantidade_de_digitos.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (4)" />
-        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (3)" />
-        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (2)" />
-        <item itemvalue="Python tests.Doctests in ex_01_numero_valido (1)" />
-        <item itemvalue="Python tests.Doctests in ex_01_numero_valido" />
+        <item itemvalue="Python tests.Doctests in ex_08_quantidade_de_digitos (4)" />
+        <item itemvalue="Python tests.Doctests in ex_08_quantidade_de_digitos" />
+        <item itemvalue="Python tests.Doctests in ex_08_quantidade_de_digitos (3)" />
+        <item itemvalue="Python tests.Doctests in ex_08_quantidade_de_digitos (2)" />
+        <item itemvalue="Python tests.Doctests in ex_08_quantidade_de_digitos (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,49 @@
       <option name="project" value="LOCAL" />
       <updated>1663321104551</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Solução do Exercício 1 - lista 3">
+      <created>1663370265914</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663370265914</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Solução do Exercício 1 - lista 3">
+      <created>1663370284346</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663370284346</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Solução do Exercício 1 - lista 5">
+      <created>1663373436493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663373436493</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Solução do Exercício 1 - lista 6">
+      <created>1663374400629</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663374400629</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Solução do Exercício 2 - lista 6">
+      <created>1663375451587</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663375451587</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Solução do Exercício 9 - lista 6">
+      <created>1663383982382</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663383982382</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +280,12 @@
     <MESSAGE value="Solução do Exercício 19 - lista 2" />
     <MESSAGE value="Solução do Exercício 01 - lista 3" />
     <MESSAGE value="Solução do Exercício 43 - lista 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solução do Exercício 43 - lista 3" />
+    <MESSAGE value="Solução do Exercício 1 - lista 3" />
+    <MESSAGE value="Solução do Exercício 1 - lista 5" />
+    <MESSAGE value="Solução do Exercício 1 - lista 6" />
+    <MESSAGE value="Solução do Exercício 2 - lista 6" />
+    <MESSAGE value="Solução do Exercício 9 - lista 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solução do Exercício 9 - lista 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
